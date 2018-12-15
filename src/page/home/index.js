@@ -12,5 +12,5 @@ const server = http.createrServer((req, res) => {
 	res.end();
 });
 
-server.listen(8080);
-logger.info('server running at 8080');
+server.listen(8888);
+logger.info('server running at 8888');
